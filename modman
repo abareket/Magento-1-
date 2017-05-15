@@ -1,0 +1,16 @@
+app/code/community/Bluesnap/Payment/    app/code/community/Bluesnap/Payment/
+app/design/adminhtml/default/default/layout/bluesnap.xml    app/design/adminhtml/default/default/layout/bluesnap.xml
+app/design/adminhtml/default/default/template/bluesnap    app/design/adminhtml/default/default/template/bluesnap
+app/design/frontend/base/default/layout/bluesnap/payment.xml    app/design/frontend/base/default/layout/bluesnap/payment.xml
+app/design/frontend/base/default/template/bluesnap/customer/    app/design/frontend/base/default/template/bluesnap/customer/
+app/design/frontend/base/default/template/bluesnap/payment/    app/design/frontend/base/default/template/bluesnap/payment/
+app/etc/modules/Bluesnap_Payment.xml    app/etc/modules/Bluesnap_Payment.xml
+app/locale/en_US/template/email/transaction_chargeback.html    app/locale/en_US/template/email/transaction_chargeback.html
+app/locale/en_US/template/email/transaction_declined.html    app/locale/en_US/template/email/transaction_declined.html
+app/locale/en_US/template/email/transaction_refund_failed.html    app/locale/en_US/template/email/transaction_refund_failed.html
+app/locale/en_US/template/email/transaction_refunded.html    app/locale/en_US/template/email/transaction_refunded.html
+js/bluesnap    js/bluesnap
+skin/frontend/base/default/css/bluesnap/buynow/    skin/frontend/base/default/css/bluesnap/buynow/
+skin/frontend/base/default/images/bluesnap/buynow/    skin/frontend/base/default/images/bluesnap/buynow/
+skin/frontend/base/default/js/bluesnap/    skin/frontend/base/default/js/bluesnap/
+Bluesnap_Payment.xml /var/connect/Bluesnap_Payment.xml
